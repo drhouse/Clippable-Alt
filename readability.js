@@ -1,8 +1,3 @@
-
-Ask AI to edit or generate...
-
-
-Beautify…
 var readabilityVersion = "2";
 var readStyle = 'style-ebook';
 var readSize = 'size-medium';
