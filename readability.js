@@ -13,7 +13,7 @@ var readMargin = 'margin-wide';
     // let's just load jQuery and get it over with
     var gjs = document.createElement('SCRIPT');
     gjs.type = 'text/javascript';
-    gjs.src = "http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js";
+    gjs.src = "https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js";
     document.getElementsByTagName('head')[0].appendChild(gjs);
     gjs.onload = gjs.onreadystatechange = function() {
         $('script')
